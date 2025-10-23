@@ -1,0 +1,15 @@
+h1{
+    color:red;
+    font-size: 16pt;
+}
+body
+{
+    font-family: "Bitcount Grid Single", system-ui;
+    background-color: rgba(251, 255, 0, 0.486);
+    background-image: url(rozowe-tlo-wiosna_134070-31.jpg);
+}
+#ignacy{
+     position: absolute;
+     right:3px
+
+}
